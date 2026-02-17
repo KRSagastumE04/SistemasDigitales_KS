@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="15000" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="12000" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="8580" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="6892" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="5692" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="20568" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="2128" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="16568" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="5796" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Káterin" Host="DESKTOP-DI504CJ" Pid="6484" HostCore="8" HostMemory="023503056896">
+    </Process>
+</ProcessHandle>
