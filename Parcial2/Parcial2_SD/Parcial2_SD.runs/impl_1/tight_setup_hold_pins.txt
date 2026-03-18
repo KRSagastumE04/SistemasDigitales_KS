@@ -1,0 +1,12 @@
++====================+===================+===========================+
+| Launch Setup Clock | Launch Hold Clock | Pin                       |
++====================+===================+===========================+
+| sys_clk_pin        | sys_clk_pin       | pl0/s0/hit_reg/D          |
+| sys_clk_pin        | sys_clk_pin       | isc0/is14/destroyed_reg/D |
+| sys_clk_pin        | sys_clk_pin       | isc0/is2/destroyed_reg/D  |
+| sys_clk_pin        | sys_clk_pin       | isc0/is0/destroyed_reg/D  |
+| sys_clk_pin        | sys_clk_pin       | isc0/is15/destroyed_reg/D |
+| sys_clk_pin        | sys_clk_pin       | isc0/is19/destroyed_reg/D |
+| sys_clk_pin        | sys_clk_pin       | isc0/is9/destroyed_reg/D  |
+| sys_clk_pin        | sys_clk_pin       | isc0/is23/destroyed_reg/D |
++--------------------+-------------------+---------------------------+
