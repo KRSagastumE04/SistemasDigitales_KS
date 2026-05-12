@@ -1,0 +1,8 @@
+"./Src/cajero.o"
+"./Src/keypad.o"
+"./Src/lcd.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Startup/startup_stm32l053r8tx.o"

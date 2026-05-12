@@ -1,0 +1,4 @@
+../Src/keypad.c:17:9:kp_cols_all_high	24	static
+../Src/keypad.c:29:9:keypad_getkey	8	static
+../Src/keypad.c:36:6:keypad_tick	16	static
+../Src/keypad.c:87:6:keypad_init	8	static

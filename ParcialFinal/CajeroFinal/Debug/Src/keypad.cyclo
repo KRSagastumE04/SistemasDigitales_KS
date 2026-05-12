@@ -1,0 +1,4 @@
+../Src/keypad.c:17:9:kp_cols_all_high	1
+../Src/keypad.c:29:9:keypad_getkey	2
+../Src/keypad.c:36:6:keypad_tick	14
+../Src/keypad.c:87:6:keypad_init	1
