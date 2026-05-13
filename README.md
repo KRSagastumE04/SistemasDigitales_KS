@@ -33,8 +33,8 @@ El repositorio está organizado por hitos académicos, documentando la evolució
 * Implementación completa de lógica de video VGA y control de juego ejecutado directamente en la tarjeta.
 
 <p align="center">
-  <img src="IMAGENES/UNIS_Invaders_Inicio.png" width="45%" />
-  <img src="IMAGENES/UNIS_Invaders_Juego.png" width="45%" />
+  <img src="IMAGENES/UNIS_Invaders_Inicio.jpg" width="45%" />
+  <img src="IMAGENES/UNIS_Invaders_Juego.jpg" width="45%" />
 </p>
 
 
@@ -59,8 +59,8 @@ El repositorio está organizado por hitos académicos, documentando la evolució
 * Incluye el código fuente y un video demostrativo del funcionamiento del hardware en tiempo real.
 
 <p align="center">
-  <img src="IMAGENES/Cajero_Final1.png" width="45%" />
-  <img src="IMAGENES/Cajero_Final2.png" width="45%" />
+  <img src="IMAGENES/Cajero_Final1.jpg" width="45%" />
+  <img src="IMAGENES/Cajero_Final2.jpg" width="45%" />
 </p>
 
 
