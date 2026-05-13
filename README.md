@@ -59,7 +59,7 @@ El repositorio está organizado por hitos académicos, documentando la evolució
 * Incluye el código fuente y un video demostrativo del funcionamiento del hardware en tiempo real.
 
 <p align="center">
-  <img src="IMAGENES/Cajero_Final1.jpg" width="45%" />
+  <img src="IMAGENES/Cajero_Final1.JPG" width="45%" />
   <img src="IMAGENES/Cajero_Final2.jpg" width="45%" />
 </p>
 
